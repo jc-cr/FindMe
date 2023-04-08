@@ -1,7 +1,9 @@
 <p align="center">
   <img src="docs/media/jap_hue.png" style="object-fit: cover; width: 100%; height: 300px;" />
   <h1 style="position: absolute; top: 150px; left: 50%; transform: translateX(-50%); color: white; text-shadow: 2px 2px 2px black;">FindMe</h1>
+  <h2 style="position: absolute; top: 220px; left: 50%; transform: translateX(-50%); color: white; font-size: 24px; text-shadow: 2px 2px 2px black; font-style: italic; font-family: 'Helvetica Neue', sans-serif; letter-spacing: 3px;">A gaze-mimicking package for robots</h2>
 </p>
+
 
 ## Overview
 
